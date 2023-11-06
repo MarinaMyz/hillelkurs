@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: orange;
+    text-decoration: overline;
+}
+ul{
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   
+}
+a{
+    text-decoration: none;
+    color: red;
+
+}
